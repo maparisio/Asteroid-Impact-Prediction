@@ -33,9 +33,10 @@ Content of the repository
 - h5_Files
   - Asteroid_Impact_Model.h5
   - Asteroid_Impact_Optimization_Model.h5
-- Asteroid_Predictions.ipynb <-- File started in Jupyter Notebook for data cleanup prior to ML training
-- Asteroid_Predictions_Colab.ipynb <-- File worked on via Google Colab after cleanup, to train our ML model
-- Asteroid_Predictions_Optimization_Colab.ipynb <-- File worked on via Google Colab. Optimization after training our ML model.
+- Asteroid_Predictions.ipynb <-- File started in Jupyter Notebook for data cleanup prior to Neural Network ML training
+- Asteroid_Predictions_Colab.ipynb <-- File worked on via Google Colab after cleanup, to train our Neural Network ML model
+- Asteroid_Predictions_Optimization_Colab.ipynb <-- File worked on via Google Colab. Optimization after training our Neural Network ML model.
+- asteroid-impact-prediction-SL.ipynb <-- File worked on via Jupyter Notebook for Supervised Learning.
 - cleaned_Asteroid_orbit.csv <-- csv file created via Jupyter Notebook while cleaning our data
 
 ----------------------------------
