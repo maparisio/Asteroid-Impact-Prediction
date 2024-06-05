@@ -9,7 +9,7 @@ Supervised Learning and Neural Network Models<br/>
 <br/>
 By M. Aparisio, H. Heer, M. Smith & L. Vara</h2><br/>
 
-(IMAGE GOES HERE)
+![ReadmeImage_wText](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/dd80ab66-bf53-44cd-a0a8-c50a6d454656)
 
 Note: It is important that if you are going to use this code, all files
 are placed in a directory that matches this repository, for the better functionality of it.
