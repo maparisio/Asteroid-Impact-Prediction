@@ -57,6 +57,9 @@ References
 **References for code:**
 - Uploading a CSV file to Google Colab: https://stackoverflow.com/questions/60347596/uploading-csv-file-google-colab
 - Using the strip() method for white spaces: https://saturncloud.io/blog/how-to-remove-space-from-columns-in-pandas-a-data-scientists-guide/#:~:text=Using%20the%20str.strip()%20method&text=strip()%20method%20removes%20leading,column%20names%20or%20column%20values
+- Confusion Matrix Visualization: https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
 
 **Image Resources:**
-- ReadMe image was created with AI via: https://creator.nightcafe.studio/
+- ReadMe image was taken from: https://pixabay.com/illustrations/dinosaurs-asteroid-stars-5568806/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
