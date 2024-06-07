@@ -44,9 +44,10 @@ Guide
 ----------------------------------
 ### Processes used 
 1. Reading the csv files
-2. Neural Networks
-3. Supervised Learning
-4. 
+2. Cleaning the data
+3. Neural Networks
+4. Supervised Learning
+5. 
 
 ------------------------------------
 References
