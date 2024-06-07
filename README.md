@@ -50,7 +50,7 @@ Guide
 5. Training the model
 6. Neural Networks
 7. Supervised Learning
-8. 
+8. Confusion Matrix
 
 ------------------------------------
 References
