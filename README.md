@@ -49,8 +49,9 @@ Guide
 4. Splitting thr data
 5. Training the model
 6. Neural Networks
-7. Supervised Learning
-8. Confusion Matrix
+7. Created a different Jupyter notebook with the same cleanup process to test Supervided Learning model
+8. Supervised Learning
+9. Confusion Matrix
 
 ------------------------------------
 References
