@@ -40,12 +40,13 @@ Content of the repository
 - cleaned_Asteroid_orbit.csv <-- csv file created via Jupyter Notebook while cleaning our data
 
 ----------------------------------
-Instructions
+Guide
 ----------------------------------
-### How to use this repository
-1. Step 1
-2. Step 2
-3. Bla bla
+### Processes used 
+1. Reading the csv files
+2. Neural Networks
+3. Supervised Learning
+4. 
 
 ------------------------------------
 References
