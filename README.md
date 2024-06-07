@@ -40,13 +40,13 @@ Content of the repository
 - cleaned_Asteroid_orbit.csv <-- csv file created via Jupyter Notebook while cleaning our data
 
 ----------------------------------
-Guide
+Guide to the Project
 ----------------------------------
 ### Processes used 
 1. Reading the csv files
 2. Cleaning the data
 3. Normalize and stabalize the data
-4. Splitting thr data
+4. Splitting the data
 5. Training the model
 6. Neural Networks
 7. Created a different Jupyter notebook with the same cleanup process to test Supervided Learning model
