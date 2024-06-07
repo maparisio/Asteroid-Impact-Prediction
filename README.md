@@ -45,9 +45,12 @@ Guide
 ### Processes used 
 1. Reading the csv files
 2. Cleaning the data
-3. Neural Networks
-4. Supervised Learning
-5. 
+3. Normalize and stabalize the data
+4. Splitting thr data
+5. Training the model
+6. Neural Networks
+7. Supervised Learning
+8. 
 
 ------------------------------------
 References
