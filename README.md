@@ -47,11 +47,13 @@ Guide to the Project
 2. Cleaning the data
 3. Normalize and stabalize the data
 4. Splitting the data
-5. Training the model
-6. Neural Networks
+5. Training the Machine Learning models
+6. Neural Network model implementation
 7. Created a different Jupyter notebook with the same cleanup process to test Supervided Learning model
-8. Supervised Learning
+8. Supervised Learning model implementation
 9. Confusion Matrix
+10. Compared observations and search for improved accuracy for each model.
+11. 
 
 ------------------------------------
 References
