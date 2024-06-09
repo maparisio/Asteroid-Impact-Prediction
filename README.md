@@ -62,6 +62,15 @@ References
 **References for the data source(s):**
 - Datasets for this project: https://www.kaggle.com/datasets/nasa/asteroid-impacts
 
+**References for the column definitions:**
+- https://cneos.jpl.nasa.gov/about/neo_groups.html#:~:text=The%20vast%20majority%20of%20NEOs,%2Dmajor%20axes%20(%20a%20).
+- https://howthingsfly.si.edu/ask-an-explainer/what-orbit-eccentricity
+- https://en.wikipedia.org/wiki/Orbital_inclination
+- https://astronomy.swin.edu.au/cosmos/A/Argument+Of+Perihelion
+- https://cneos.jpl.nasa.gov/glossary/
+- https://www.britannica.com/science/mean-anomaly
+- https://en.wikipedia.org/wiki/Minimum_orbit_intersection_distance#:~:text=Minimum%20orbit%20intersection%20distance%20(MOID,collision%20risks%20between%20astronomical%20objects.
+
 **References for code:**
 - Uploading a CSV file to Google Colab: https://stackoverflow.com/questions/60347596/uploading-csv-file-google-colab
 - Using the strip() method for white spaces: https://saturncloud.io/blog/how-to-remove-space-from-columns-in-pandas-a-data-scientists-guide/#:~:text=Using%20the%20str.strip()%20method&text=strip()%20method%20removes%20leading,column%20names%20or%20column%20values
@@ -69,5 +78,12 @@ References
 
 **Image Resources:**
 - ReadMe image was taken from: https://pixabay.com/illustrations/dinosaurs-asteroid-stars-5568806/
+- Slide images
+-   https://pixabay.com/illustrations/asteroid-space-stars-meteor-1477065/
+-   https://pixabay.com/illustrations/armageddon-apocalypse-earth-2104385/
+-   https://en.wikipedia.org/wiki/Orbital_eccentricity
+-   https://www.sciencedirect.com/topics/physics-and-astronomy/true-anomaly
+-   https://www.researchgate.net/figure/Minimum-Orbital-Intersection-Distance_fig7_36174303
+-   https://pixabay.com/illustrations/asteroid-planet-land-space-span-4376113/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
