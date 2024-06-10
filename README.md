@@ -66,11 +66,11 @@ Guide to the Project
 
 ![SL_model_Unbalanced](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/413d931b-4ff6-4af2-8745-5bbcb371c069)
 
-2. Results when OverSampling
+2. Results when over sampling the data
    
 ![SL_model_OverSampling](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/7db96891-5cc7-4a24-861d-3bb123105835)
 
-4. Results when UnderSampling
+4. Results when under sampling the data
 
 ![SL_model_UnderSampling](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/87f7baae-890d-4342-a06a-1f472f2e7068)
 
