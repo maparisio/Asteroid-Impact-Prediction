@@ -56,7 +56,7 @@ Guide to the Project
 7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class
 
 ### Notebooks Used
-  Google Colaboratory
+  Google Colaboratory  
   Jupyter Notebook
 
 ### Platforms, API’s, Libraries and Packages
