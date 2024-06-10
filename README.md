@@ -49,11 +49,28 @@ Guide to the Project
 4. Splitting the data
 5. Training the Machine Learning models
 6. Neural Network model implementation
-7. Created a different Jupyter notebook with the same cleanup process to test Supervided Learning model
+7. Created a different Jupyter notebook with the same cleanup process to test Supervised Learning model
 8. Supervised Learning model implementation
-9. Confusion Matrix
+9. Confusion Matrix and Visualization
 10. Compared observations and search for improved accuracy for each model.
-11. 
+
+## Accuracy for the Neural Network Model (Pre-optimization and Optimized results)
+![NN_model_AccuracyComparison](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/7282e365-dd18-4676-8bd1-9dc1c155a53b)
+
+## Accuracy for the Supervised Learning Model
+
+1. Low precision and recall due to imbalance of data classes
+
+![SL_model_Unbalanced](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/413d931b-4ff6-4af2-8745-5bbcb371c069)
+
+2. Results when OverSampling
+   
+![SL_model_OverSampling](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/7db96891-5cc7-4a24-861d-3bb123105835)
+
+4. Results when UnderSampling
+
+![SL_model_UnderSampling](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/87f7baae-890d-4342-a06a-1f472f2e7068)
+
 
 ------------------------------------
 References
