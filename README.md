@@ -33,11 +33,14 @@ Content of the repository
 - h5_Files
   - Asteroid_Impact_Model.h5
   - Asteroid_Impact_Optimization_Model.h5
+- Asteroid definitions.pptx <-- Powerpoint presentation Intro to the project and definitions of the different columns in the dataset.
 - Asteroid_Predictions.ipynb <-- File started in Jupyter Notebook for data cleanup prior to Neural Network ML training
-- Asteroid_Predictions_Colab.ipynb <-- File worked on via Google Colab after cleanup, to train our Neural Network ML model
-- Asteroid_Predictions_Optimization_Colab.ipynb <-- File worked on via Google Colab. Optimization after training our Neural Network ML model.
-- asteroid-impact-prediction-SL.ipynb <-- File worked on via Jupyter Notebook for Supervised Learning.
-- cleaned_Asteroid_orbit.csv <-- csv file created via Jupyter Notebook while cleaning our data
+- Asteroid_Predictions_Colab.ipynb <-- File worked on via Google Colab after cleanup, to train our Neural Network ML model prior to optimization.
+- Asteroid_Predictions_Optimization_Colab.ipynb <-- File worked on via Google Colab. Optimized version after training our Neural Network ML model.
+- asteroid-impact-prediction-SL-CFM.ipynb <-- File worked on via Jupyter Notebook for Supervised Learning, with unbalanced data.
+- asteroid_impact-prediction-SL-OverSample.ipynb <-- File worked on via Jupyter Notebook for SL, with OverSampling of the data.
+- asteroid-impact-prediction-SL-UnderSample.ipynb <-- File worked on via Jupyter Notebook for SL, with UnderSampling of the data.
+- cleaned_Asteroid_orbit.csv <-- csv file created via Jupyter Notebook after data was cleaned prior to creating the ML models (NN model version)
 
 ----------------------------------
 Guide to the Project
