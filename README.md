@@ -54,6 +54,20 @@ Guide to the Project
 5.  Present our findings to the class on Presentation Day, with each member of our group taking turns in speaking
 6.  Submit the URL of our GitHub repository to be graded
 7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class
+
+### Notebooks Used
+Google Colaboratory
+Jupyter Notebook
+
+### Platforms, API’s, Libraries and Packages
+Pandas
+Matplotib
+SciKit Learn
+Tensorflow
+Keras
+Get_dummies
+Seaborn
+imblearn
    
 ### Processes used 
 1.  Reading the csv files
