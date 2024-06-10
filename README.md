@@ -57,6 +57,7 @@ Guide to the Project
 
 ### Notebooks Used
 Google Colaboratory
+
 Jupyter Notebook
 
 ### Platforms, API’s, Libraries and Packages
