@@ -92,18 +92,55 @@ References
 - https://en.wikipedia.org/wiki/Minimum_orbit_intersection_distance#:~:text=Minimum%20orbit%20intersection%20distance%20(MOID,collision%20risks%20between%20astronomical%20objects.
 
 **References for code:**
-- Uploading a CSV file to Google Colab: https://stackoverflow.com/questions/60347596/uploading-csv-file-google-colab
-- Using the strip() method for white spaces: https://saturncloud.io/blog/how-to-remove-space-from-columns-in-pandas-a-data-scientists-guide/#:~:text=Using%20the%20str.strip()%20method&text=strip()%20method%20removes%20leading,column%20names%20or%20column%20values
-- Confusion Matrix Visualization: https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
+- Uploading a CSV file to Google Colab:
+  - https://stackoverflow.com/questions/60347596/uploading-csv-file-google-colab
+- Using the strip() method for white spaces:
+  - https://saturncloud.io/blog/how-to-remove-space-from-columns-in-pandas-a-data-scientists-guide/#:~:text=Using%20the%20str.strip()%20method&text=strip()%20method%20removes%20leading,column%20names%20or%20column%20values
+- Confusion Matrix Visualization:
+  - https://medium.com/@dtuk81/confusion-matrix-visualization-fc31e3f30fea
+- Using Keras for Machine Learning:
+  - https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/
+
+- Learning Rate Scheduler:
+  - https://machinelearningmastery.com/using-learning-rate-schedules-deep-learning-models-python-keras/
+  - https://keras.io/api/callbacks/learning_rate_scheduler/
+  - https://d2l.ai/chapter_optimization/lr-scheduler.html
+  - https://stackoverflow.com/questions/61981929/how-to-change-the-learning-rate-based-on-the-previous-epoch-accuracy-using-keras
+  - https://neptune.ai/blog/how-to-choose-a-learning-rate-scheduler
+
+- Validation_Split function:
+  - https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
+  - https://datascience.stackexchange.com/questions/38955/how-does-the-validation-split-parameter-of-keras-fit-function-work
+
+- Activation Functions:
+  - https://www.analyticsvidhya.com/blog/2020/01/fundamentals-deep-learning-activation-functions-when-to-use-them/
+
+- Optimizers:
+  - https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-on-deep-learning-optimizers/
+  - https://musstafa0804.medium.com/optimizers-in-deep-learning-7bf81fed78a0
+  - https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
+
+- Callbacks:
+  - https://www.kdnuggets.com/2019/08/keras-callbacks-explained-three-minutes.html
+  - https://medium.com/@ompramod9921/callbacks-your-secret-weapon-in-machine-learning-b08ded5678f0
+  - https://www.tensorflow.org/guide/keras/writing_your_own_callbacks
+
+- Saving and Loading Models: 
+  - https://colab.research.google.com/github/agungsantoso/deep-learning-v2-pytorch/blob/master/intro-to-pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb
+  - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/save_and_load.ipynb
+  - https://stackoverflow.com/questions/64808087/how-do-i-save-files-from-google-colab-to-google-drive
+  - https://stackoverflow.com/questions/46986398/import-data-into-google-colaboratory
 
 **Image Resources:**
-- ReadMe image was taken from: https://pixabay.com/illustrations/dinosaurs-asteroid-stars-5568806/
+- ReadMe image was taken from:
+  - https://pixabay.com/illustrations/dinosaurs-asteroid-stars-5568806/
+    
 - Slide images
--   https://pixabay.com/illustrations/asteroid-space-stars-meteor-1477065/
--   https://pixabay.com/illustrations/armageddon-apocalypse-earth-2104385/
--   https://en.wikipedia.org/wiki/Orbital_eccentricity
--   https://www.sciencedirect.com/topics/physics-and-astronomy/true-anomaly
--   https://www.researchgate.net/figure/Minimum-Orbital-Intersection-Distance_fig7_36174303
--   https://pixabay.com/illustrations/asteroid-planet-land-space-span-4376113/
+  -   https://pixabay.com/illustrations/asteroid-space-stars-meteor-1477065/
+  -   https://pixabay.com/illustrations/armageddon-apocalypse-earth-2104385/
+  -   https://en.wikipedia.org/wiki/Orbital_eccentricity
+  -   https://www.sciencedirect.com/topics/physics-and-astronomy/true-anomaly
+  -   https://www.researchgate.net/figure/Minimum-Orbital-Intersection-Distance_fig7_36174303
+  -   https://pixabay.com/illustrations/asteroid-planet-land-space-span-4376113/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
