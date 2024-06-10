@@ -51,9 +51,9 @@ Guide to the Project
 2.  Outline a scope and purpose for our project, utilzing our machine learning skills to analyze,solve, or visualize our findings
 3.  Finding reliable data to use for our project, being mindful of copyrights, licenses, or terms of use
 4.  Track all processes in Jupyter Notebook used for cleanup, and techniques used for Data Analysis
-5.  Present our findings to the class on Presentation Day, with each member of our group taking turns in speaking.
+5.  Present our findings to the class on Presentation Day, with each member of our group taking turns in speaking
 6.  Submit the URL of our GitHub repository to be graded.
-7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class.
+7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class
    
 ### Processes used 
 1.  Reading the csv files
