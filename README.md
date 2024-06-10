@@ -55,7 +55,7 @@ Guide to the Project
 7. Created a different Jupyter notebook with the same cleanup process to test Supervised Learning model
 8. Supervised Learning model implementation
 9. Confusion Matrix and Visualization
-10. Compared observations and search for improved accuracy for each model.
+10. Compared observations and searched for improved accuracy for each model.
 
 ## Accuracy for the Neural Network Model (Pre-optimization and Optimized results)
 ![NN_model_AccuracyComparison](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/7282e365-dd18-4676-8bd1-9dc1c155a53b)
