@@ -45,16 +45,26 @@ Content of the repository
 ----------------------------------
 Guide to the Project
 ----------------------------------
+
+### Guidelines for the Project
+1.  Collaborating with our team to pool knowledge and share ideas
+2.  Outline a scope and purpose for our project, utilzing our machine learning skills to analyze,solve, or visualize our findings
+3.  Finding reliable data to use for our project, being mindful of copyrights,licenses, or terms of use
+4.  Track all processes in Jupyter Notebook used for cleanup, and techniques used for Data Analysis
+5.  Present our findings to the class on Presentation Day, with each member of our group taking turns in speaking.
+6.  Submit the URL of our GitHub repository to be graded.
+7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class.
+   
 ### Processes used 
-1. Reading the csv files
-2. Cleaning the data
-3. Normalize and stabalize the data
-4. Splitting the data
-5. Training the Machine Learning models
-6. Neural Network model implementation
-7. Created a different Jupyter notebook with the same cleanup process to test Supervised Learning model
-8. Supervised Learning model implementation
-9. Confusion Matrix and Visualization
+1.  Reading the csv files
+2.  Cleaning the data
+3.  Normalize and stabalize the data
+4.  Splitting the data
+5.  Training the Machine Learning models
+6.  Neural Network model implementation
+7.  Created a different Jupyter notebook with the same cleanup process to test Supervised Learning model
+8.  Supervised Learning model implementation
+9.  Confusion Matrix and Visualization
 10. Compared observations and searched for improved accuracy for each model.
 
 ## Accuracy for the Neural Network Model (Pre-optimization and Optimized results)
