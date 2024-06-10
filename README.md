@@ -84,7 +84,7 @@ Guide to the Project
 ## Accuracy for the Neural Network Model (Pre-optimization and Optimized results)
 ![NN_model_AccuracyComparison](https://github.com/maparisio/Asteroid-Impact-Prediction/assets/152572519/7282e365-dd18-4676-8bd1-9dc1c155a53b)
 
-## Accuracy for the Supervised Learning Model
+## Sample Accuracy for the Supervised Learning Model
 
 1. Low precision and recall due to imbalance of data classes
 
