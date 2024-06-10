@@ -56,19 +56,18 @@ Guide to the Project
 7.  Graduate and attain employment from utilizing our knowlwdge acquired from this class
 
 ### Notebooks Used
-Google Colaboratory
-
-Jupyter Notebook
+  Google Colaboratory
+  Jupyter Notebook
 
 ### Platforms, API’s, Libraries and Packages
-Pandas
-Matplotib
-SciKit Learn
-Tensorflow
-Keras
-Get_dummies
-Seaborn
-imblearn
+  Pandas
+  Matplotib
+  SciKit Learn
+  Tensorflow
+  Keras
+  Get_dummies
+  Seaborn
+  imblearn
    
 ### Processes used 
 1.  Reading the csv files
