@@ -60,14 +60,14 @@ Guide to the Project
   Jupyter Notebook
 
 ### Platforms, API’s, Libraries and Packages
-  Pandas
-  Matplotib
-  SciKit Learn
-  Tensorflow
-  Keras
-  Get_dummies
-  Seaborn
-  imblearn
+  Pandas  
+  Matplotib  
+  SciKit Learn  
+  Tensorflow  
+  Keras  
+  Get_dummies  
+  Seaborn  
+  imblearn  
    
 ### Processes used 
 1.  Reading the csv files
